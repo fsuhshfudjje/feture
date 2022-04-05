@@ -5,12 +5,11 @@ You can use the [editor on GitHub](https://github.com/fsuhshfudjje/feture/edit/g
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+Welcome to my GitHub page and visit it.
+We will be nice in the next few days. 
+I am so sorry for the Drag the update. But we will to make more new videos and get more money.
+Let's show!
+'''
 # Header 1
 ## Header 2
 ### Header 3
